@@ -4,4 +4,4 @@
 $aaa@root: sudo honey.py -p 2131
 
 ### why this script ?
-As vezes você entra em uma rede hostil e voce se sente inseguro.. pois, bem..  coloque esse script junto ao seu firewall e coloque uma porta geralmente num range entre 81 - 8081.. e veja se tem algum serviço como 'nmap' scanneando a porta em questão a qual você subiu.. e fique monitorando..ou bloqueie.
+Sometimes you enter a hostile network and you feel insecure .. well, put this script next to your firewall and put a port usually in a range between 81 - 8081 .. and see if you have any service like 'nmap' scanning the port in question which you uploaded .. and keep monitoring ..or block.
